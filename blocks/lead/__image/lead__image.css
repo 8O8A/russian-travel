@@ -1,0 +1,10 @@
+.lead__image {
+    /* background-image: url('../../../images/kalegin-michail-179870-unsplash.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; */
+    margin: 0 auto;
+    max-width: 100%;
+    grid-row: 1/1;
+    grid-column: 1/1;
+}

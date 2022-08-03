@@ -1,0 +1,7 @@
+.lead__images {
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr;
+    margin: 0;
+    max-width: 100%;
+}
