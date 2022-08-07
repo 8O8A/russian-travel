@@ -6,12 +6,4 @@
 
 .header__lang-link:last-of-type {
     margin-right: 0;
-
-}
-
-.header__lang-link:hover {
-    color: #2f80ed;
-    text-decoration: underline;
-    opacity: .5;
-    transition: 1.5s;
 }

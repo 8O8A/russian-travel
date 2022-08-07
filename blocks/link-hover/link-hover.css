@@ -1,0 +1,8 @@
+.link-hover:hover {
+    /* color: #e4e724;
+    text-decoration: underline;
+    opacity: .5;
+    transition: 1.5s; */
+    text-decoration: underline;
+    opacity: .8;
+}

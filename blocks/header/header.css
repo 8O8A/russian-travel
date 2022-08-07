@@ -1,6 +1,8 @@
 .header {
     max-width: 1184px;
-    margin: 28px 48px 0;
+    /* margin: 28px 48px 0; */
+    padding: 28px 48px 0;
+    margin: 0;
     display: flex;
     align-items: center;
     align-items: flex-end;
@@ -10,14 +12,18 @@
 
 @media screen and (max-width: 768px) and (min-width: 321px) {
     .header {
-        margin: 28px 24px 0;
+        /* margin: 28px 24px 0; */
+        padding: 28px 24px 0;
+        margin: 0;
     }
 }
 
 @media screen and (max-width: 320px) {
     .header {
-        margin: 16px 16px 0;
+        /* margin: 16px 16px 0; */
+        padding: 16px 16px 0;
+        margin: 0;
         min-width: 288px;
-        min-height: 42px;
+        max-height: 42px;
     }
 }
