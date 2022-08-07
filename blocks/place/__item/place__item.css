@@ -16,7 +16,7 @@
 
 @media screen and (max-width: 1024px) and (min-width: 769px) {
     .place__item {
-        grid-column-gap: 32px
+        grid-column-gap: 32px;
     }
 }
 
@@ -48,15 +48,3 @@
         grid-row-gap: 32px;
     }
 }
-
-/* @media screen and (max-width: 320px) {
-    .place__item {
-        margin-bottom: 50px;
-        grid-template-areas:
-        "place__title"
-        "place__website"
-        "place__image"
-        "place__text";
-        grid-row-gap: 32px;
-    }
-} */
