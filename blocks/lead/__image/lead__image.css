@@ -4,7 +4,8 @@
     background-repeat: no-repeat;
     background-position: center; */
     margin: 0 auto;
-    max-width: 100%;
-    grid-row: 1/1;
-    grid-column: 1/1;
+    width: 100%;
+    border-style: none;
+    /* grid-row: 1/1;
+    grid-column: 1/1; */
 }
