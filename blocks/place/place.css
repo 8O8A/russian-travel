@@ -4,32 +4,20 @@
     margin: 0 auto;
 }
 
-@media screen and (max-width: 1024px) and (min-width:769px) {
+@media screen and (max-width: 1279px) and (min-width: 1024px) {
     .place {
-        /* margin-left: 48px;
-        margin-right: 48px; */
-        margin: 0;
-        padding-left: 48px;
-        padding-right: 48px;
+        padding: 92px 48px;
     }
-    
 }
-@media screen and (max-width: 768px) and (min-width: 425px) {
+
+@media screen and (max-width: 1023px) and (min-width: 768px) {
     .place {
-        /* margin: 88px 24px 90px; */
         padding: 88px 24px 90px;
     }
 }
 
-@media screen and (max-width: 424px) and (min-width: 321px) {
+@media screen and (max-width: 767px) {
     .place {
-        padding: 64px 16px 66px;
-    }
-}
-
-@media screen and (max-width: 320px) {
-    .place {
-        /* margin: 64px 0 66px; */
         padding: 64px 0 66px;
     }
 }
