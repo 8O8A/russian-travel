@@ -6,6 +6,6 @@
     line-height: 122%;
     text-decoration-line: underline;
     color: #FFFFFF;
-    width: 100%;
+    width: fit-content;
     display: block;
 }
